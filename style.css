@@ -1,0 +1,23 @@
+/*  ---CSS goes here----  */
+body {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.meme_card {
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+    padding-bottom: 20px;
+}
+
+.card_image {
+    border: 5px solid white;
+    width: 100%;
+}
